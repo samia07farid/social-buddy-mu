@@ -1,0 +1,13 @@
+.each-card{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: beige;
+    height: 40vh;
+    width: auto;
+    padding: 20px 20px 0px 20px;
+    margin-bottom: 30px;
+}
+.button{
+    text-decoration: none;
+    margin-bottom: 40px;
+}
